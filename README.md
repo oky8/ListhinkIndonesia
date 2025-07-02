@@ -1,2 +1,0 @@
-# ListhinkIndonesia
-web
